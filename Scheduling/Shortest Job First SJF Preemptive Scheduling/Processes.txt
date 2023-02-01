@@ -1,0 +1,5 @@
+p_id, brust_time, arrival_time
+1 5 0
+2 3 2
+3 2 4
+4 3 1
